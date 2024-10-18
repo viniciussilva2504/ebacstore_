@@ -127,7 +127,7 @@ section > .container h2 {
 
 @media (max-width: 1023px) and (min-width: 641px) {
     .lista-calcados li {
-        flex: 1 1 calc(50% - 20px); 
+        flex: 1 1 calc(30% - 20px); 
     }
 
     #sobre-a-loja {
